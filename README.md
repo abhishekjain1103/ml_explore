@@ -1,1 +1,1 @@
-# ml_explore
+This repo is to explore ML interests and to see how far I can go
